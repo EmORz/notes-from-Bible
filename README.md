@@ -4,5 +4,5 @@
 >**Как да изтегля документ?**
 >Избирам желаният документ и натискам бутон *Download* виж [Снимка](https://drive.google.com/file/d/1h3bsnlVsNZ9H4XrwtBNMaHCVMxAJo5xJ/view?usp=sharing)
 
-2. Инсталирате някакъв четец на докумети онлайн - примерно [Docs Online Viewer](https://chrome.google.com/webstore/detail/docs-online-viewer/gmpljdlgcdkljlppaekciacdmdlhfeon) 
+2. Инсталирате някакъв четец на документи онлайн - примерно [Docs Online Viewer](https://chrome.google.com/webstore/detail/docs-online-viewer/gmpljdlgcdkljlppaekciacdmdlhfeon) 
 
